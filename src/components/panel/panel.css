@@ -1,0 +1,46 @@
+.panel{
+    border: 1px solid #b3b3b3;
+    box-shadow: 1px 1px  white;
+    display: inline-table;
+    max-width: 30vw;
+    min-width: 300px;
+    margin: 10px;
+    height: 150px;
+    padding: 10px;
+    text-align: left;
+}
+
+.panel-title{
+    /* border: 1px solid black; */
+    max-width: 28vw;
+    min-width: 280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:0px 10px;
+
+}
+
+.fa-icon{
+    /* border: 1px solid black; */
+    font-size: 30px;
+    margin: auto 10px;
+    color: grey;
+    filter: drop-shadow(1px 1px white);
+}
+
+.panel h1{
+    font-size: 20px;
+    font-weight: 450;
+}
+
+.panel p {
+    /* border: 1px solid black; */
+    max-width: 27vw;
+    min-width: 300px;
+    height: 100px;
+    padding-left: 10px;
+    font-size: 14px;
+    margin: 0px;
+    line-height: 1.6;
+}

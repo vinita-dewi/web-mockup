@@ -1,0 +1,28 @@
+.highlight{
+    text-align: center;
+    background-color: gainsboro;
+    margin-bottom: 0;
+
+}
+
+.highlight-header h1{
+    margin-top: 0px;
+    padding-top: 50px;
+    font-weight: 450;
+}
+
+.highlight-header p{
+    min-width: 180px;
+    padding: 0px 20px;
+    max-width: 600px;
+    margin: 10px auto;
+    font-weight: 480;
+    line-height: 1.6;
+}
+
+.highlight-panel{
+    width: 100vw;
+    /* margin: auto; */
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
